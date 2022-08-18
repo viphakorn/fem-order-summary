@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-Ci6WslTIDL)
+- Live Site URL: [Github](https://viphakorn.github.io/order-summary-component-main/)
 
 ## My process
 
